@@ -1,3 +1,9 @@
+body{
+    background-color: #111;
+}
+
 #d{
-    color:green;
+    font-family: monospace;
+    font-size: 36px;
+    color:rgb(0, 235, 0);
 }

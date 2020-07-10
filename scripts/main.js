@@ -1,7 +1,4 @@
 let d = document.getElementById('d');
 
-let t = d.textContent ;
-
-let last = t[17];
-
-console.log(last);
+setInterval(function(){d.innerHTML='Designer|'},500);
+setInterval(function(){d.innerHTML='Designer'},1000);
